@@ -4,12 +4,14 @@ Este proyecto contiene una suite de pruebas automatizadas para testear endpoints
 
 ## 📦 Estructura del proyecto
 
-├── tests/ # Casos de prueba organizados
-├── pages/ # Clases POM para las APIs
-├── conftest.py # Fixtures comunes y configuración
-├── requirements.txt # Dependencias
-├── .gitignore # Archivos a ignorar por Git
-└── README.md # Documentación del proyecto
+```text
+├── tests/               # Casos de prueba organizados
+├── pages/               # Clases POM para las APIs
+├── conftest.py          # Fixtures comunes y configuración
+├── requirements.txt     # Dependencias
+├── .gitignore           # Archivos a ignorar por Git
+└── README.md            # Documentación del proyecto
+```
 
 ## 🚀 Tecnologías utilizadas
 
