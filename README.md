@@ -13,7 +13,7 @@ Este proyecto contiene una suite de pruebas automatizadas para testear endpoints
 
 ## 🚀 Tecnologías utilizadas
 
-- Python 3.x
+- Python 3.13.5
 - Pytest
 - Requests
 - Logging estándar de Python
